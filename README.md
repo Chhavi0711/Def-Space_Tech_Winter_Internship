@@ -79,17 +79,6 @@ The analysis highlights several important flight characteristics:
 
 ---
 
-## Repository Structure
-
-```
-├── MATLAB Code
-├── Project Report.pdf
-├── Performance Plots
-└── README.md
-```
-
----
-
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
